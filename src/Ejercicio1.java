@@ -6,7 +6,37 @@ public class Ejercicio1 {
 
 		System.out.println("Holiwi");
 		System.out.println("vamos a saludar");
+		System.out.println("hola");
 		
 	}
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
